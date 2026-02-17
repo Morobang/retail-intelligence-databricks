@@ -1,0 +1,1 @@
+-- Gold layer SQL queries placeholder
